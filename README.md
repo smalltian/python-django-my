@@ -1,6 +1,7 @@
 # python-django-my
 
 ### 项目目录
+```
 $ cd python-django-my/
 $ tree
 .
@@ -11,3 +12,4 @@ $ tree
 |   |-- wsgi.py                 一个 WSGI 兼容的 Web 服务器的入口，以便运行你的项目
 |   |-- view.py                 视图
 `-- manage.py                   一个实用的命令行工具，可让你以各种方式与该 Django 项目进行交互
+```
